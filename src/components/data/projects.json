@@ -1,0 +1,34 @@
+[
+  {
+    "key": 1,
+    "title": "Tribute Page",
+    "imageSrc": "projects/tribute.png",
+    "description": "This is the simple tribute page made by HTML and CSS",
+    "demo": "https://dikshaadgitm123.github.io/Tribute_page/",
+    "source": "https://github.com/dikshaadgitm123/Tribute_page"
+  },
+  {
+    "key": 2,
+    "title": "Travel and Tour App",
+    "imageSrc": "projects/travel.png",
+    "description": "This is the travel and tour site made by javascript",
+    "demo": "https://dikshaadgitm123.github.io/TravelTour/",
+    "source": "https://github.com/dikshaadgitm123/TravelTour"
+  },
+  {
+    "key": 3,
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This project is made by using API.",
+    "demo": "https://dikshaadgitm123.github.io/weatherApp/",
+    "source": "https://github.com/dikshaadgitm123/weatherApp"
+  },
+  {
+    "key": 4,
+    "title": "Quiz App",
+    "imageSrc": "projects/quiz.png",
+    "description": "This is the project of Quiz where user can take quiz",
+    "demo": "https://dikshaadgitm123.github.io/Quiz_App/",
+    "source": "https://github.com/dikshaadgitm123/Quiz_App"
+  }
+]
